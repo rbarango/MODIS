@@ -1,5 +1,5 @@
 ##################################################################################### 
-#' Extracts MOD09GQ MODIS data product for a particular extent and date interval
+#' Proccess and extracts MOD09GQ MODIS data product for a particular extent and date interval
 #'
 #' Daily Tile Surface Reflectance Bands 1-2 product with a ground resolution of 250m
 #
