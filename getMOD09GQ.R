@@ -6,7 +6,7 @@
 #' https://lpdaac.usgs.gov/products/modis_products_table/mod09gq
 #' http://modis-sr.ltdri.org/products/MOD09_UserGuide_v1_3.pdf
 #' 
-#' The function requires access to GDAL commands. For instance via the following command provinding the
+#' The function requires access to GDAL commands. For instance via the following command providing the
 #' right path to GDAL in your system:  
 #' Sys.setenv(PATH="$PATH:/Library/Frameworks/GDAL.framework/Programs")
 #'
